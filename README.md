@@ -1,1 +1,1 @@
-# pure-functions
+# pure-functions [![Build status](https://ci.appveyor.com/api/projects/status/j8s3mloii1yf0kxq/branch/main?svg=true)](https://ci.appveyor.com/project/barsich/pure-functions/branch/main)
